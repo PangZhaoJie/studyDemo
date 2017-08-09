@@ -1,0 +1,10 @@
+*.iml
+*.ipr
+*.iws
+.idea/*
+target/
+/target/
+*.classpath
+*.project
+.settings/
+catalina.base_IS_UNDEFINED/
