@@ -9,7 +9,7 @@ public class ResourcePathExposer implements ServletContextAware {
 	private String resourceRoot;
 
 	public void init() {
-		String version = "1.2.1";
+		String version = "1.2.1";asds
 		resourceRoot = "/resources-" + version;
 		getServletContext().setAttribute("resourceRoot", 
 				getServletContext().getContextPath()+resourceRoot);
