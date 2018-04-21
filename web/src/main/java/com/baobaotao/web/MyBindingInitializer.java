@@ -7,7 +7,7 @@ import org.springframework.web.context.request.WebRequest;
 import com.baobaotao.domain.User;
 import com.baobaotao.domain.UserEditor;
 
-public class MyBindingInitializer implements WebBindingInitializer{
+public class MyBindingInitializer implements WebBindingInitializer12{
   public void initBinder(WebDataBinder binder, WebRequest request) {
 	  binder.registerCustomEditor(User.class, new UserEditor());
    }
