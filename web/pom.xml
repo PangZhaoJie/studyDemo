@@ -37,7 +37,7 @@
     <mockito.version>1.10.8</mockito.version>
     <jedis.version>2.8.0</jedis.version>
     <poi.version>3.9</poi.version>
-    <axis.version>1.6.1</axis.version>
+    <axis.version>1.6.3</axis.version>
     <swagger.version>2.5.0</swagger.version>
     <harmania.version>1.1.6-RELEASE</harmania.version>
     <cat.version>1.3.7-RELEASE</cat.version>
